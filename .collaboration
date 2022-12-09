@@ -135,17 +135,7 @@
   },
   {
     "ModuleName": "PageReport/レポート5",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "YasukoTakura",
-      "Email": "yasuko.takura@grapecity.com"
-    },
-    "LockDateTime": "2022-12-09T14:35:33.2542112+09:00",
-    "ModuleType": 17,
-    "ToRemoveFiles": [
-      "Reports\\レポート5.json",
-      "Reports\\レポート5.rdlx"
-    ]
+    "ModuleType": 17
   },
   {
     "ModuleName": "ApplicationSetting",
