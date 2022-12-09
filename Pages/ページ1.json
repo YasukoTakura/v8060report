@@ -1,0 +1,132 @@
+{
+  "Rows": {
+    "Count": 51
+  },
+  "Cols": {
+    "Count": 60
+  },
+  "Values": {
+    "1,1": "レポート生成"
+  },
+  "AttachInfos": {
+    "1,1": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.ExportActiveReportCommand, ServerDesignerCommon",
+            "CustomName": "レポート3",
+            "ExportReportNameList": [
+              "レポート3"
+            ],
+            "IsPageBreakBefores": [
+              false
+            ],
+            "ReportGaps": [
+              "0cm"
+            ]
+          }
+        ],
+        "Text": "レポート生成",
+        "TemplateKey": "_RS_Normal_Style2"
+      }
+    },
+    "7,1": {
+      "ListViewInfo": {
+        "ShowColumnHeaderInDesigner": true,
+        "TableName": "テーブル1",
+        "RowIndex": 7,
+        "ColumnIndex": 1,
+        "ColumnCount": 10,
+        "RowCount": 12,
+        "IsColumnHeaderVisible": false,
+        "AllowGetFocus": false,
+        "ShowEditStatusIcon": true,
+        "UseSimpleBar": true,
+        "Name": "リストビュー1",
+        "TopCondition": null,
+        "ListViewStyleName": "_RS_Medium2"
+      },
+      "BindingInfo": {
+        "TableName": "テーブル1",
+        "ColumnName": "ID"
+      }
+    },
+    "7,4": {
+      "BindingInfo": {
+        "TableName": "テーブル1",
+        "ColumnName": "会社"
+      }
+    },
+    "7,7": {
+      "BindingInfo": {
+        "TableName": "テーブル1",
+        "ColumnName": "カテゴリ"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "FontFamily": 0,
+        "Formatter": 1
+      },
+      {
+        "FontFamily": 0
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "Body",
+        "[AUTO]General"
+      ]
+    },
+    "CellStyles": {
+      "1,12": 0,
+      "1,13": 1,
+      "1,14": 1,
+      "1,15": 1,
+      "1,16": 1,
+      "1,17": 1,
+      "1,18": 1,
+      "2,12": 1,
+      "2,13": 1,
+      "2,14": 1,
+      "2,15": 1,
+      "2,16": 1,
+      "2,17": 1,
+      "2,18": 1,
+      "3,12": 1,
+      "3,13": 1,
+      "3,14": 1,
+      "3,15": 1,
+      "3,16": 1,
+      "3,17": 1,
+      "3,18": 1,
+      "7,4": 1
+    },
+    "SheetStyle": {
+      "FontFamily": 0
+    }
+  },
+  "Spans": [
+    "7,1,1,3",
+    "7,4,1,3",
+    "7,7,1,3",
+    "8,1,11,10",
+    "1,1,3,7"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "AuthorizeInfo": {
+      "VisitMode": 3
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": [],
+    "RelatedDataTableName": "テーブル1"
+  },
+  "PrintInfo": {
+    "Margin": {},
+    "PaperSize": {}
+  }
+}//jPB7H2LjKGJkySZPBcpktdpeCTqVLws9lpABGRVge/NTx6vUboPKMyDp1zVEkZklEfs4LnfF3d1EyLq5RuvQIg5Gf4VC77qaQGU0ex57pnN9c8tDY2QwubEl7a6LHM6HVNM2n5GsvA1P5MFASdlQrej9GhZSje/mUiR9u2SYly+VJ85tVeZv0SiTQ3Hen6Kzu5ZJEL4NQB67pyK7gHsb1BLO4U9m9WcAYfR6uXHZchvy/Mp0VNWmOFUC3qNohGm5m15QvjDOu/W4xc23qAOLLyxnmQZYt/3luwxhsUasFHFoKj66fUC/oHdiqJJYubbiYFfXdY+WRv6ETLHCSPJRO6Wx7ugP1A5Jam08/luszTXYcfBFXwYqN2iqMR0cjvuGs82/aKKsQ1HZ0XsIbV6FQwNYmcCDxMq1/jcdNxaLYsEBQYklZ3gOccZTqxJbBe/Llw8yaEV6oTxH3Lj/e9f3otURQzTNpHEOn5pPEiY+wQtV2vudI3blbqS1BZ4YdFUjlOLRiZhe0ugzQryVlTFt1o3PK7OR8mKrmLrieRq6ZpHUONTlbZwuNTKDcVmU/oQn6RVjU444hGVuv4U0RARtd1f7lTSmkG9Z+iv/mhhZ3mSyAnSJNolG3bsqiwYmN0QC6xXtLDITAr6alz5m5xfBbP+AYzgTrl6V5gPJsKdIOoLgZUeEVtjbf4MIdjHN7HqZuhfEhufoj9lMWHETPmcsWFC1sr3L/FT6ss09WdCKtS81hCHAMsoSoNtEKzTUDs7pqzcl4kdvTMWNGXurXml0OMIUL+nZvfRa3ni+N86o9WLgvIPJcnhIci5Sww0KHv6bEwA/OVkAcQ6QvtjAEDAmgrndPRqh0YrqujV8Pic09NDDC463jg/J0xqjktdamqz64hYA6kmMIu2JBy7xULDw3A==|920
